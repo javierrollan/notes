@@ -1,0 +1,242 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasCode",
+      "FasSquareXmark",
+      "FasCheck",
+      "FasDatabase",
+      "FasFolderTree"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "Programacion/programacion_c/Programacion_C.md": "FasNoteSticky",
+  "Programacion/programacion_python/Programacion_Python.md": {
+    "iconName": "FasDatabase",
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Programacion/programacion_x86/Programacion_x86.md": "FasNoteSticky",
+  "Programacion/programacion_x86": {
+    "iconName": "FasFolder",
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Programacion/programacion_python": "FasFolder",
+  "Programacion/programacion_c": {
+    "iconName": "FasFolder",
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Programacion": "FasFolderTree",
+  "Personal": "FasFolderTree",
+  "Cyber": "FasFolderTree",
+  "Attachmets": {
+    "iconName": "FasFolderTree",
+    "inheritanceIcon": "FasImages"
+  },
+  "Programacion/Programacion.md": "FasCode",
+  "Personal/Personal.md": "FasDatabase",
+  "Cyber/Cybersecurity.md": "FasDatabase",
+  "SysAdmin/SysAdmin.md": "FasDatabase",
+  "SysAdmin": "FasFolderTree",
+  "Splunk": "FasFolderTree",
+  "Splunk/Splunk.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Workload Management/Workload Management.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Upgrade Readiness/Upgrade Readiness.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Updating Splunk Enterprise Instances/Updating Splunk Enterprise Instances.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Troubleshooting Manual/Troubleshooting Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Splunk Enterprise Overview/Splunk Enterprise Overview.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Splunk Dashboard Studio/Splunk Dashboard Studio.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Splunk Analytics for Hadoop": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Splunk Analytics for Hadoop/Splunk Analytics for Hadoop.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Workload Management": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Upgrade Readiness": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Updating Splunk Enterprise Instances": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Troubleshooting Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Splunk Enterprise Overview": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Splunk Dashboard Studio": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Securing Splunk Enterprise with Common Criteria": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Securing Splunk Enterprise with Common Criteria/Securing Splunk Enterprise with Common Criteria.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Securing Splunk Enterprise": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Securing Splunk Enterprise/Securing Splunk Enterprise.md": {
+    "iconName": "FasDatabase",
+    "inheritanceIcon": "FasDatabase"
+  },
+  "Templates": {
+    "iconName": null,
+    "inheritanceIcon": "FasBookOpen"
+  },
+  "Splunk/Splunk Enterprise/Search Tutorial": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Search Tutorial/Search Tutorial.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Search Reference/Search Reference.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Search Reference": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Search Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Search Manual/Search Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/REST API User Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/REST API Tutorials": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/REST API Reference Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Reporting Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Pivot Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Monitoring Splunk Enterprise": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Metrics": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Managing Indexers and Clusters of Indexers": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Knowledge Manager Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Installation Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Inherit a Splunk Enterprise Deployment": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Getting Data In": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Forwarding Data": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Distributed Search": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Distributed Deployment Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Developing Views and Apps for Splunk Web": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Dashboards and Visualizations": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Capacity Planning Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Analytics Workspace": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Alerting Manual": {
+    "iconName": "FasCheck",
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Admin Manual": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Splunk/Splunk Enterprise/Admin Manual/Admin Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Alerting Manual/Alerting Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Analytics Workspace/Analytics Workspace.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Capacity Planning Manual/Capacity Planning Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Dashboards and Visualizations/Dashboards and Visualizations.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Distributed Deployment Manual/Distributed Deployment Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Distributed Search/Distributed Search.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Forwarding Data/Forwarding Data.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Getting Data In/Getting Data In.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Inherit a Splunk Enterprise Deployment/Inherit a Splunk Enterprise Deployment.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Installation Manual/Installation Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Knowledge Manager Manual/Knowledge Manager Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Managing Indexers and Clusters of Indexers/Managing Indexers and Clusters of Indexers.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Metrics/Metrics.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Monitoring Splunk Enterprise/Monitoring Splunk Enterprise.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Pivot Manual/Pivot Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Reporting Manual/Reporting Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/REST API Reference Manual/REST API Reference Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/REST API Tutorials/REST API Tutorials.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/REST API User Manual/REST API User Manual.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Developing Views and Apps for Splunk Web/Developing Views and Apps for Splunk Web.md": "FasDatabase",
+  "Splunk/Splunk Enterprise/Alerting Manual/Manual alert configuration with .conf files.md": "FasSquareXmark",
+  "Splunk/Splunk Enterprise/Dashboards and Visualizations/Table Visualizations.md": "FasSquareXmark",
+  "Programacion/programacion_python/Dataquest": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Programacion/programacion_python/Learn Python the Hard Way": {
+    "iconName": null,
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Programacion/programacion_python/Leetcode/Ejercicios": {
+    "iconName": "FasCode",
+    "inheritanceIcon": "FasCode"
+  },
+  "Programacion/programacion_python/Leetcode/Ejercicios/Two Sum.md": "FasCode",
+  "Programacion/programacion_python/Leetcode/Leetcode.md": "FasDatabase"
+}

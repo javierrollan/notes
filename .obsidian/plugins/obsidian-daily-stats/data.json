@@ -1,0 +1,35 @@
+{
+  "dayCounts": {
+    "2023/7/28": 1991,
+    "2023/7/30": 28,
+    "2023/7/31": 1251,
+    "2023/8/1": 1898,
+    "2023/8/2": 225
+  },
+  "todaysWordCount": {
+    "Programacion/programacion_python/Programacion_Python.md": {
+      "initial": 18,
+      "current": 34
+    },
+    "Templates/Template_Notes_Python.md": {
+      "initial": 23,
+      "current": 23
+    },
+    "Programacion/programacion_python/Leetcode/Leetcode.md": {
+      "initial": 20,
+      "current": 34
+    },
+    "Programacion/programacion_python/Leetcode/Ejercicios/Two Sum.md": {
+      "initial": 21,
+      "current": 209
+    },
+    "Templates/Template_Notes_Python_Exercise.md": {
+      "initial": 22,
+      "current": 26
+    },
+    "Templates/Template_Notes_Python_Leetcode.md": {
+      "initial": 26,
+      "current": 29
+    }
+  }
+}

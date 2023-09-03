@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "128d79a762dab868",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ce84a085774ef62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6cbaf71cfc65cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "b7063134cc1a5cd0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3fb1831e59c7a916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/programacion_python/Leetcode/Ejercicios/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ada97d5684aef7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/programacion_python/Leetcode/Ejercicios/Two Sum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dac222f1a32c0a0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c398720cee1f3006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b4ec70e9c00368b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f693c908b90445d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05125941ffc5433f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "031d07b4e4a9fa35",
+    "type": "split",
+    "children": [
+      {
+        "id": "49e96b572010fe73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785c3e5b54256fbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programacion/programacion_python/Leetcode/Ejercicios/Two Sum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cc2edefef56c666",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programacion/programacion_python/Leetcode/Ejercicios/Two Sum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6090f390cd1ad6eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3edd962c776be41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programacion/programacion_python/Leetcode/Ejercicios/Two Sum.md"
+              }
+            }
+          },
+          {
+            "id": "bc6ca7f5cf417afc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf030491967abc6f",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ada97d5684aef7ea",
+  "lastOpenFiles": [
+    "Notes.md",
+    "Programacion/programacion_python/Leetcode/Ejercicios/Untitled.md",
+    "Programacion/programacion_python/Leetcode/Ejercicios/Two Sum.md",
+    "Programacion/programacion_python/Leetcode/Leetcode.md",
+    "Templates/Template_Notes_Python_Leetcode.md",
+    "Templates/Template_Notes_Python.md",
+    "Programacion/programacion_python/Leetcode/Ejercicios",
+    "Programacion/programacion_python/Programacion_Python.md",
+    "Programacion/programacion_python/Leetcode",
+    "Programacion/programacion_python/Dataquest",
+    "Programacion/programacion_python/Learn Python the Hard Way",
+    "Programacion/programacion_python/Learn Python the hard way/Untitled.md",
+    "Programacion/programacion_python/Learn Python the hard way",
+    "Splunk/Splunk Enterprise/Dashboards and Visualizations/Dashboards and Visualizations.md",
+    "Templates/Template_Index.md",
+    "Templates/Template_Notes_Splunk.md",
+    "Programacion/Programacion.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Get started with knowledge objects.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Welcome to knowledge management.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Fields and field extractions.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Knowledge Manager Manual.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Use data summaries to accelerate searches.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Use data summaries.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Define data model dataset fields.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Build a data model.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Create and edit table datasets.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Manage and explore datasets.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Search macros.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Field alisases.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Tags.md",
+    "Splunk/Splunk Enterprise/Knowledge Manager Manual/Workflow actions.md",
+    "Attachmets/Pasted image 20230824094207.png",
+    "Splunk/Splunk Enterprise/REST API User Manual/Untitled",
+    "Splunk/Splunk Enterprise/Updating Splunk Enterprise Instances/Untitled",
+    "Splunk/Splunk Enterprise/Workload Management/Untitled",
+    "Splunk/Splunk Enterprise/REST API Tutorials",
+    "Splunk/Splunk Enterprise/REST API User Manual"
+  ]
+}
